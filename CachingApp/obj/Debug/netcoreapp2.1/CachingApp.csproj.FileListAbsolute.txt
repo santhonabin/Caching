@@ -1,0 +1,17 @@
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\CachingApp.deps.json
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\CachingApp.runtimeconfig.json
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\CachingApp.runtimeconfig.dev.json
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\CachingApp.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\Caching.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\Caching.pdb
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.csprojAssemblyReference.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.csproj.CoreCompileInputs.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.RazorAssemblyInfo.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.RazorAssemblyInfo.cs
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.AssemblyInfoInputs.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.AssemblyInfo.cs
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.RazorTargetAssemblyInfo.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.csproj.CopyComplete
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\bin\Debug\netcoreapp2.1\CachingApp.pdb
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\CachingApp\obj\Debug\netcoreapp2.1\CachingApp.pdb

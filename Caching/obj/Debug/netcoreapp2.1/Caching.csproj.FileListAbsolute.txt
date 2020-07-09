@@ -1,0 +1,25 @@
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Caching.deps.json
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Caching.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Caching.pdb
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.csproj.CoreCompileInputs.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.AssemblyInfoInputs.cache
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.AssemblyInfo.cs
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.csproj.CopyComplete
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.pdb
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\UTIS LAPTOP 71\source\repos\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.csprojAssemblyReference.cache
+F:\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.AssemblyInfoInputs.cache
+F:\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.AssemblyInfo.cs
+F:\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.dll
+F:\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.pdb
+F:\CachingApp\Caching\bin\Debug\netcoreapp2.1\Caching.deps.json
+F:\CachingApp\Caching\bin\Debug\netcoreapp2.1\Caching.dll
+F:\CachingApp\Caching\bin\Debug\netcoreapp2.1\Caching.pdb
+F:\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.csprojAssemblyReference.cache
+F:\CachingApp\Caching\obj\Debug\netcoreapp2.1\Caching.csproj.CoreCompileInputs.cache

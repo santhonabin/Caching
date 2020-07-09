@@ -1,0 +1,9 @@
+F:\CachingApp\Caching\bin\Debug\netcoreapp3.1\Caching.deps.json
+F:\CachingApp\Caching\bin\Debug\netcoreapp3.1\Caching.dll
+F:\CachingApp\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfoInputs.cache
+F:\CachingApp\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfo.cs
+F:\CachingApp\Caching\bin\Debug\netcoreapp3.1\Caching.pdb
+F:\CachingApp\Caching\obj\Debug\netcoreapp3.1\Caching.csproj.CoreCompileInputs.cache
+F:\CachingApp\Caching\obj\Debug\netcoreapp3.1\Caching.dll
+F:\CachingApp\Caching\obj\Debug\netcoreapp3.1\Caching.pdb
+F:\CachingApp\Caching\obj\Debug\netcoreapp3.1\Caching.csprojAssemblyReference.cache
